@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Prodip Kumar Shil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+## My Skills
+![Logo](https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png?f=webp&w=256)
+![Logo](https://i.ibb.co/Q91N8b0/marvel8.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prodipkumarshil&label=Profile%20views&color=0e75b6&style=flat" alt="prodipkumarshil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prodipkumarshil" alt="prodipkumarshil" /></a> </p>
