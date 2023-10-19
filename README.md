@@ -9,6 +9,11 @@
 <br /> 🚀I specialize in creating web applications using technologies like MongoDB, Express.js, React, and Node.js. My focus is on building user-friendly, responsive interfaces and harnessing modern tools to develop robust and scalable applications. 🚀 
 <br /> I'm passionate about staying up-to-date with the latest tech trends and love collaborating with fellow developers. 
 <br />🌐 Let's connect and create awesome projects together!🌐 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prodip-kumar-shil-65aa58232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
+  <a href="mailto:prodipkrishna01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+  <a href="https://www.facebook.com/prodip.kumar.7965/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
+</p>
 
 <h1><img style="float: right;" src="https://s6.gifyu.com/images/S65P7.gif" />hello</h1>
 
