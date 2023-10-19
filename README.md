@@ -1,6 +1,7 @@
 ![MasterHead](https://i.ibb.co/d4V11D2/Git-Banner.png)
 <h1 align="center">Hi 👋, I'm Prodip Kumar Shil</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=This+is+Prodip+Kumar+Shil;+MERN+stack+developer;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## My Skills
 ![Logo](https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png?f=webp&w=256)
