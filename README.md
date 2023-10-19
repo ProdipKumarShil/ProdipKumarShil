@@ -4,6 +4,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&pause=1000&color=4D6973&random=false&width=435&lines=This+is+Prodip+Kumar+Shil;+MERN+stack+developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30" alt="Typing SVG" /></a>
 </h1>
 
+<h2 align="center">About Me</h2>
+<p align="center">👨‍💻 I'm Prodip Kumar Shil, a dedicated MERN Stack developer with a track record of successfully completing 30+ projects. 👨‍💻 
+<br /> 🚀I specialize in creating web applications using technologies like MongoDB, Express.js, React, and Node.js. My focus is on building user-friendly, responsive interfaces and harnessing modern tools to develop robust and scalable applications. 🚀 
+<br /> I'm passionate about staying up-to-date with the latest tech trends and love collaborating with fellow developers. 
+<br />🌐 Let's connect and create awesome projects together!🌐 </p>
+
 <h1><img style="float: right;" src="https://s6.gifyu.com/images/S65P7.gif" />hello</h1>
 
 
