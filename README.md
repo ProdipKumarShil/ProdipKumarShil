@@ -16,10 +16,9 @@
   <a href="https://drive.google.com/file/d/1Y2ByfCekUS7hph3_wLiFfX9Ao93e3uiL/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-ffae75?style=for-the-badge" height=23/></a>
 </p>
 
-<h1><img style="float: right;" src="https://s6.gifyu.com/images/S65P7.gif" />hello</h1>
 
 
-## My Skills
+<h2 align="center">My Skills</h2>
 ![Logo](https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png?f=webp&w=256)
 ![Logo](https://i.ibb.co/Q91N8b0/marvel8.jpg)
 
