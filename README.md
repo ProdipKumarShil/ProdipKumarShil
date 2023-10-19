@@ -4,6 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&pause=1000&color=4D6973&random=false&width=435&lines=This+is+Prodip+Kumar+Shil;+MERN+stack+developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30" alt="Typing SVG" /></a>
 </h1>
 
+<h1><img style="float: right;" src="./img/code.gif" />hello</h1>
+
 ## My Skills
 ![Logo](https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png?f=webp&w=256)
 ![Logo](https://i.ibb.co/Q91N8b0/marvel8.jpg)
