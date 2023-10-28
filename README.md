@@ -46,7 +46,7 @@
 | 01  | <a href="https://prodipkumarshil.github.io/ph-project-love-store/">Love Store</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-project-love-store">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/ph-projects-testyHut/">Testy Hut</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-projects-testyHut">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/ph-hero-phone-shop/">Phone Bazar</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-hero-phone-shop">Client Site</a> |
-| 01  | <a href="https://prodipkumarshil.github.io/ph-project-weather-app/">Weather Update</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-project-weather-app">Client Site</a> |
+| 01  | <a href="https://venerable-kringle-b4011b.netlify.app/">Weather Update</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-project-weather-app">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/ph-counter/">Counter</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-counter/settings/pages">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/my-awesome-store/">Awesome Store</a> | Technology | <a href="https://github.com/ProdipKumarShil/my-awesome-store">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/randomPokemon/">Random Pokemon</a> | Technology | <a href="https://github.com/ProdipKumarShil/randomPokemon">Client Site</a> |
