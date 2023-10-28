@@ -30,6 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 </p>
 
+<h2 align="center">My Projects</h2>
+
 | No | Website | Technology | Github Links |
 |----|---------|------------|--------------|
 | 01  | <a href="https://prodipkumarshil.github.io/ph-practice-hero-section/">Hero Section</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-practice-hero-section">Client Site</a> |
@@ -46,13 +48,13 @@
 | 01  | <a href="https://prodipkumarshil.github.io/ph-project-love-store/">Love Store</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-project-love-store">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/ph-projects-testyHut/">Testy Hut</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-projects-testyHut">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/ph-hero-phone-shop/">Phone Bazar</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-hero-phone-shop">Client Site</a> |
-| 01  | <a href="https://venerable-kringle-b4011b.netlify.app/">Weather Update</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-project-weather-app">Client Site</a> |
-| 01  | <a href="https://prodipkumarshil.github.io/ph-counter/">Counter</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-counter/settings/pages">Client Site</a> |
+| 01  | <a href="https://prodipkumarshil.github.io/ph-project-weather-app/">Weather Update</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-project-weather-app">Client Site</a> |
+| 01  | <a href="https://prodipkumarshil.github.io/ph-counter/">Counter</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-counter">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/my-awesome-store/">Awesome Store</a> | Technology | <a href="https://github.com/ProdipKumarShil/my-awesome-store">Client Site</a> |
 | 01  | <a href="https://prodipkumarshil.github.io/randomPokemon/">Random Pokemon</a> | Technology | <a href="https://github.com/ProdipKumarShil/randomPokemon">Client Site</a> |
 | 01  | <a href="https://candy-land-toys.web.app/">Candy Land Toys</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-11-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-11-server">Server Site</a> |
 | 01  | <a href="https://magenta-axolotl-7d4a16.netlify.app/">BD Jobs</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-09">Client Site</a> |
-| 01  | <a href="http://placid-swim.surge.sh/">AI Universe</a> | Technology | <a href="https://github.com/programming-hero-web-course2/b7a6-ai-universe-assignment-ProdipKumarShil">Client Site</a> |
+| 01  | <a href="http://placid-swim.surge.sh/">AI Universe</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-06">Client Site</a> |
 | 01  | <a href="http://chubby-trousers.surge.sh/">Geometry Ginius</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-05">Client Site</a> |
 | 01  | <a href="http://rabid-loss.surge.sh/">Blogger Cafe</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-080">Client Site</a> |
 | 01  | <a href="https://ph-assignment-10-75696.web.app/">Indiana Chefs</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-10-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-10-server">Server Site</a> |
