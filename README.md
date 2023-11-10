@@ -10,7 +10,7 @@
 <br /> I'm passionate about staying up-to-date with the latest tech trends and love collaborating with fellow developers. 
 <br />🌐 Let's connect and create awesome projects together!🌐 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prodip-kumar-shil-1a210a291/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
+  <a href="https://www.linkedin.com/in/prodipkumarshil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
   <a href="mailto:prodipkrishna01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <a href="https://www.facebook.com/prodip.kumar.7965/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
   <a href="https://drive.google.com/file/d/1Y2ByfCekUS7hph3_wLiFfX9Ao93e3uiL/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-ffae75?style=for-the-badge" height=23/></a>
@@ -35,10 +35,10 @@
 | No | Website | Technology | Github Links |
 |----|---------|------------|--------------|
 | 01  | <a href="https://candy-land-toys.web.app/">Candy Land Toys</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-11-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-11-server">Server Site</a> |
-| 01  | <a href="https://ph-assignment-10-75696.web.app/">Indiana Chefs</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-10-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-10-server">Server Site</a> |
-| 01  | <a href="https://college-connect-63ea8.web.app/">College Connect </a> | Technology | <a href="https://github.com/ProdipKumarShil/CollageConnect">Client Site</a> <a href="https://github.com/ProdipKumarShil/CollegeConnect-server">Server Site</a> |
-| 01  | <a href="https://soulmate-matrimony.netlify.app/">Soulmate Metrimony</a> | Technology | <a href="https://github.com/ProdipKumarShil/Harmony-Matrimony_CLIENT">Client Site</a> <a href="https://github.com/ProdipKumarShil/Harmony-Matrimony_SERVER">Server Site</a> |
-| 01  | <a href="https://celadon-nasturtium-30c0e3.netlify.app/">Cas Job task</a> | Technology | <a href="https://github.com/ProdipKumarShil/Find-Partner-CAS">Client Site</a> <a href="https://github.com/ProdipKumarShil/Find-Partner-CAS-Server">Server Site</a> |
+| 02  | <a href="https://ph-assignment-10-75696.web.app/">Indiana Chefs</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-10-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-10-server">Server Site</a> |
+| 02  | <a href="https://college-connect-63ea8.web.app/">College Connect </a> | Technology | <a href="https://github.com/ProdipKumarShil/CollageConnect">Client Site</a> <a href="https://github.com/ProdipKumarShil/CollegeConnect-server">Server Site</a> |
+| 03  | <a href="https://soulmate-matrimony.netlify.app/">Soulmate Metrimony</a> | Technology | <a href="https://github.com/ProdipKumarShil/Harmony-Matrimony_CLIENT">Client Site</a> <a href="https://github.com/ProdipKumarShil/Harmony-Matrimony_SERVER">Server Site</a> |
+| 04  | <a href="https://celadon-nasturtium-30c0e3.netlify.app/">Cas Job task</a> | Technology | <a href="https://github.com/ProdipKumarShil/Find-Partner-CAS">Client Site</a> <a href="https://github.com/ProdipKumarShil/Find-Partner-CAS-Server">Server Site</a> |
 
 
 
