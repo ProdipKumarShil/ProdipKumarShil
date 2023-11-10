@@ -34,11 +34,11 @@
 
 | No | Website | Technology | Github Links |
 |----|---------|------------|--------------|
-| 01  | <a href="https://candy-land-toys.web.app/">Candy Land Toys</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-11-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-11-server">Server Site</a> |
-| 02  | <a href="https://ph-assignment-10-75696.web.app/">Indiana Chefs</a> | Technology | <a href="https://github.com/ProdipKumarShil/ph-assignment-10-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-10-server">Server Site</a> |
-| 02  | <a href="https://college-connect-63ea8.web.app/">College Connect </a> | Technology | <a href="https://github.com/ProdipKumarShil/CollageConnect">Client Site</a> <a href="https://github.com/ProdipKumarShil/CollegeConnect-server">Server Site</a> |
-| 03  | <a href="https://soulmate-matrimony.netlify.app/">Soulmate Metrimony</a> | Technology | <a href="https://github.com/ProdipKumarShil/Harmony-Matrimony_CLIENT">Client Site</a> <a href="https://github.com/ProdipKumarShil/Harmony-Matrimony_SERVER">Server Site</a> |
-| 04  | <a href="https://celadon-nasturtium-30c0e3.netlify.app/">Cas Job task</a> | Technology | <a href="https://github.com/ProdipKumarShil/Find-Partner-CAS">Client Site</a> <a href="https://github.com/ProdipKumarShil/Find-Partner-CAS-Server">Server Site</a> |
+| 01  | <a href="https://candy-land-toys.web.app/">Candy Land Toys</a> | MERN, Firebase | <a href="https://github.com/ProdipKumarShil/ph-assignment-11-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-11-server">Server Site</a> |
+| 02  | <a href="https://ph-assignment-10-75696.web.app/">Indiana Chefs</a> | React, Firebase | <a href="https://github.com/ProdipKumarShil/ph-assignment-10-client">Client Site</a> <a href="https://github.com/ProdipKumarShil/ph-assignment-10-server">Server Site</a> |
+| 03  | <a href="https://college-connect-63ea8.web.app/">College Connect </a> | MERN, Firebase | <a href="https://github.com/ProdipKumarShil/CollageConnect">Client Site</a> <a href="https://github.com/ProdipKumarShil/CollegeConnect-server">Server Site</a> |
+| 04  | <a href="https://soulmate-matrimony.netlify.app/">Soulmate Metrimony</a> | MERN, Framer motion, Socket.io, Headless UI, Firebase | <a href="https://github.com/ProdipKumarShil/Harmony-Matrimony_CLIENT">Client Site</a> <a href="https://github.com/ProdipKumarShil/Harmony-Matrimony_SERVER">Server Site</a> |
+| 05  | <a href="https://celadon-nasturtium-30c0e3.netlify.app/">Cas Job task</a> | React, ExpressJS, NodeJS | <a href="https://github.com/ProdipKumarShil/Find-Partner-CAS">Client Site</a> <a href="https://github.com/ProdipKumarShil/Find-Partner-CAS-Server">Server Site</a> |
 
 
 
