@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/prodipkumarshil/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
   <a href="mailto:prodipkrishna01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <a href="https://www.facebook.com/prodip.kumar.7965/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a>
-  <a href="https://drive.google.com/file/d/1Y2ByfCekUS7hph3_wLiFfX9Ao93e3uiL/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-ffae75?style=for-the-badge" height=23/></a>
+  <a href="https://drive.google.com/file/d/1tY2Yg5eacHxP0cWVzzPOpqVQVxWVGGus/view?usp=sharing" height=23/></a>
   
 <h2 align="center">My Skills</h2>
 
